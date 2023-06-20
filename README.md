@@ -37,7 +37,7 @@ Example use case: tags in a blog
                 }
             }``
 3. instantiate class
-    - > `` window.csvinput = new CSVInput(config);``
+    - > `` window.tagsinput = new TagsInput(config);``
 4. Done !
 
 ## Examples
@@ -45,7 +45,7 @@ Example use case: tags in a blog
 ### Using `` <select> `` Input
 
 ```
-<select name="tags" onchange="window.csvinput.manualTag(this)">
+<select name="tags" onchange="window.tagsinput.manualTag(this)">
     <option value="1">Tag 1</option>
     <option value="1">Tag 2</option>
     ....
