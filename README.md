@@ -19,8 +19,8 @@ Example use case: tags in a blog
 ## Implementation
 
 1. Download or Through CDN: 
-> ``<script src="https://cdn.jsdelivr.net/gh/hussein112/TagsInput@1.0.0/tagsinput.js"></script>``
-> ``<script src="https://cdn.jsdelivr.net/gh/hussein112/TagsInput@1.0.0/tagsinput.min.js"></script>``
+> ``<script src="https://cdn.jsdelivr.net/gh/hussein112/TagsInput@latest/tagsinput.js"></script>``
+> ``<script src="https://cdn.jsdelivr.net/gh/hussein112/TagsInput@latest/tagsinput.min.js"></script>``
 2. Add ``<div id="hk-input-csv"></div>``
 
 3. create config object
